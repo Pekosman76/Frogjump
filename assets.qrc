@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FROG/frog.png</file>
+        <file>FOURMIE/ant.png</file>
+    </qresource>
+</RCC>
